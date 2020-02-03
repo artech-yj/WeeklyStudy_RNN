@@ -33,7 +33,7 @@ RNN이 흔히 사용되고 있는 분야는 음성인식(Speech recognition), �
 
 
 
-### 시계열 데이터(Sequence Data)
+# 시계열 데이터(Sequence Data)
 
 위에서 예시를 들었던 문장 대신 다른 예시를 들어보겠다.
 
@@ -55,7 +55,7 @@ RNN이 흔히 사용되고 있는 분야는 음성인식(Speech recognition), �
 
 
 
-### RNN
+# RNN
 
 딥러닝을 처음 배울 때 Input Layer / Hidden Layer / Output Layer로 이루어져 있다고 배운다. 이러한 방식을 Feed-Forward Neural Network라고 한다. Feed-Forward Neural Network방식으로 시계열 데이터를 처리할 수는 있지만 전체 시퀀스를  하나의 데이터 포인트로 변환해야 한다.
 
@@ -109,7 +109,7 @@ RNN이 흔히 사용되고 있는 분야는 음성인식(Speech recognition), �
 
 
 
-### RNN의 한계
+# RNN의 한계
 
 <img width="668" alt="img012" src="https://user-images.githubusercontent.com/60219074/73669206-693b3180-46ea-11ea-8521-c2dadee56ef0.png">
 
